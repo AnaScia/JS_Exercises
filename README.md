@@ -1,45 +1,45 @@
 # Practicando JS
 
 ## Ejercicios Basicos de Prog
-1.Programa que pida dos numeros y que nos diga cual es el mayor,el menor y si son iguales.
-2.Al programa anterior,si los numeros no son numeros o son menores o iguales a cero ,nos lo vuelva a pedir.
-3.Utilizando un bucle , mostrar la suma y la media de los numeros introducidos hasta introducir un numero negativo y ahi mostrar el resultado.
-4.Hacer un programa que muestre todos los numeros entre dos numeros introducidos por el usuario
-5.Mostrar todos los numeros impares que hay entre dos numeros introducidos por el usuario.
-6. Muestre todos los numeros divisores de un numero que mete en prompt
-7.Programa que nos diga si un numero es par o impar.
+1) Programa que pida dos numeros y que nos diga cual es el mayor,el menor y si son iguales.
+2) Al programa anterior,si los numeros no son numeros o son menores o iguales a cero ,nos lo vuelva a pedir.
+3) Utilizando un bucle , mostrar la suma y la media de los numeros introducidos hasta introducir un numero negativo y ahi mostrar el resultado.
+4) Hacer un programa que muestre todos los numeros entre dos numeros introducidos por el usuario
+5) Mostrar todos los numeros impares que hay entre dos numeros introducidos por el usuario.
+6) Muestre todos los numeros divisores de un numero que mete en prompt
+7) Programa que nos diga si un numero es par o impar.
 7.1 Ventana prompt 
 7.2 si no es valido que nos pida de nuevo el numero.
-8.Tabla de multiplicar de un numero introducido por pantalla.
-9.calculadora que: -pida dos numeros por pantalla,-si metemos uno mal que nos lo vuelva a pedir,-en el cuerpo de la pagina,en una alerta y por la consola el resultado de sumar ,restar,multiplicar y dividir esas dos cifras,-refactoriza el codigo para encapsularlo todo en funciones reutilizables.
-10.Programa que pida 6 numeros por pantalla y los meta en un Array. 
-11.Mostrar el array anterior entero(todos sus elementos) en el cuerpo de la pagina y en la consola(usando funciones).
-12.Ordenar el array anterior  mostrarlo
-13.Invertir el orden del array anterior y mostrarlo.
-14. Mostrar cuantos elementos tiene el array anterior.
-15.Busqueda de un valor introducido por el usuario,que nos diga si lo encuentra en el array o no.
+8) Tabla de multiplicar de un numero introducido por pantalla.
+9) calculadora que: -pida dos numeros por pantalla,-si metemos uno mal que nos lo vuelva a pedir,-en el cuerpo de la pagina,en una alerta y por la consola el resultado de sumar ,restar,multiplicar y dividir esas dos cifras,-refactoriza el codigo para encapsularlo todo en funciones reutilizables.
+10) Programa que pida 6 numeros por pantalla y los meta en un Array. 
+11) Mostrar el array anterior entero(todos sus elementos) en el cuerpo de la pagina y en la consola(usando funciones).
+12) Ordenar el array anterior  mostrarlo
+13) Invertir el orden del array anterior y mostrarlo.
+14) Mostrar cuantos elementos tiene el array anterior.
+15) Busqueda de un valor introducido por el usuario,que nos diga si lo encuentra en el array o no.
 
 ## Ejercicios de Dom y eventos
-16.Ejercicio con DOM y eventos:
+16) Ejercicio con DOM y eventos:
 -Formulario campos:nombre,apellidos y edad 
 -boton de enviar formulario:evento Submit 
 -mostrar datos por pantalla
 -validacion del formulario para que no metan datos vacios
-17.Crear un dormulario para guardar nombres de personas en el localstorage y muestralos por pantalla en una lista HTML 
-18.En la lista anterior añade un boton para poder eliinar elementos del localstorage
-19.Haz una peticion ajax a una api rest publica y muestra un listado de datos.
-20.Muestra la fecha de hoy y un numero aleatorio del 1 al 120 en la consola del navegador.
+17) Crear un dormulario para guardar nombres de personas en el localstorage y muestralos por pantalla en una lista HTML 
+18) En la lista anterior añade un boton para poder eliinar elementos del localstorage
+19) Haz una peticion ajax a una api rest publica y muestra un listado de datos.
+20) Muestra la fecha de hoy y un numero aleatorio del 1 al 120 en la consola del navegador.
 
 ## Ejercicios de creacion de una web
-21.Maqueta una web.
-22.Haz un slider de imagenes funcional(busca librerias externas).
-23.Muestra un listado de articulos almacenados en un json y muestralo dinamicamente.
-24. Haz un cambiador de temas(cambiar colores y fondos de la web al hacer click en los botones flotantes laterales)
-25.Al final de la web habra un boton para subir al principio de la web haciendo una animacion en el scroll automatico y suavizado.
-26.Hacer un formulario que nos permita guardar en el localstorage el nombre y los apellidos del usuario que este en la web y en el caso de que exista la "sesion" mostrarla.
-27.Seccion "sobre mi" en la que habra un acordeon.
-28."Seccion Reloj" en las que habra un reloj dinamico con javascript (o usando el objeto date de js o libreria externa).
-29.Seccion de contacto con formulario y validacion.
+21) Maqueta una web.
+22) Haz un slider de imagenes funcional(busca librerias externas).
+23) Muestra un listado de articulos almacenados en un json y muestralo dinamicamente.
+24) Haz un cambiador de temas(cambiar colores y fondos de la web al hacer click en los botones flotantes laterales)
+25) Al final de la web habra un boton para subir al principio de la web haciendo una animacion en el scroll automatico y suavizado.
+26) Hacer un formulario que nos permita guardar en el localstorage el nombre y los apellidos del usuario que este en la web y en el caso de que exista la "sesion" mostrarla.
+27) Seccion "sobre mi" en la que habra un acordeon.
+28) "Seccion Reloj" en las que habra un reloj dinamico con javascript (o usando el objeto date de js o libreria externa).
+29) Seccion de contacto con formulario y validacion.
 
 
  
