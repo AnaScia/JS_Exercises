@@ -190,7 +190,8 @@
 // console.log(mostrar());
 // document.write(mostrar());
 
-// // 12.Ordenar el array anterior  mostrarlo
+// 12.Ordenar el array anterior  mostrarlo
+
 // let num = "";
 // let array2 = [];
 // for (let i = 0; i < 6; i++) {
@@ -200,10 +201,10 @@
 // console.log(array2);
 // console.log(array2.sort());
 
-// // 14. Mostrar cuantos elementos tiene el array anterior.
+// 14. Mostrar cuantos elementos tiene el array anterior.
 // console.log(array2.length);
 
-// // 15.Busqueda de un valor introducido por el usuario,que nos diga si lo encuentra en el array o no.
+// 15.Busqueda de un valor introducido por el usuario,que nos diga si lo encuentra en el array o no.
 // console.log(array2.includes(2));
 
 // sacar el promedio de tres notas y mostrar un mensaje si Aprobó o Réprobo
@@ -224,8 +225,7 @@
 //   console.log("desaprobaste");
 // }
 
-// Ejercicios de jonmircha
-// Ejercicios de Logica de Programacion:
+// Ejercicios de Logica de Programacion:(de jonmircha)
 
 //EJERCICIOS DE ARRAY:
 // 1) Programa una función que cuente el número de caracteres de una cadena de texto, ejemplo: miFuncion("Hola Mundo") devolverá 10.
@@ -365,3 +365,31 @@
 // console.log(primo(7));
 // console.log(primo(8));
 // console.log(primo(11));
+
+// 13) Programa una función que determine si un número es par o impar, pe. miFuncion(29) devolverá Impar.
+
+// const esParoImpar=(num)=>{
+// if(num%2===0){
+// console.log("es par")
+// }else{
+//   console.log("es impar")
+// }
+// }
+// esParoImpar(29);
+// esParoImpar(10);
+
+// 14) Programa una función para convertir grados Celsius a Fahrenheit y viceversa, pe. miFuncion(0,"C") devolverá 32°F.
+
+// function grados(grado,tipo){
+// if(tipo==="C"){
+//   celsius=grado * 1.8 + 32;
+//   return celsius + "°F"
+// }else{
+//   fahrenheit=grado -32 * 0.555;
+//   return fahrenheit + "°C";
+// }
+// }
+// console.log(grados(0,"f"));
+// console.log(grados(0,"C"));
+
+ 
