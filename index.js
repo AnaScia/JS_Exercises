@@ -324,12 +324,44 @@
 
 // 8) Programa una función que elimine cierto patrón de caracteres de un texto dado, pe. miFuncion("xyz1, xyz2, xyz3, xyz4 y xyz5", "xyz") devolverá  "1, 2, 3, 4 y 5
 
-const eliminar = (texto, patron) => {
-  separar = texto.split(patron); //quita solo el patron
-  console.log(separar);
-  juntar = separar.join(""); //junta el resto
-  console.log(juntar); //muestra el texto sinel patron
-};
-eliminar("xyz1, xyz2, xyz3, xyz4 y xyz5", "xyz");
+// const eliminar = (texto, patron) => {
+//   separar = texto.split(patron); //quita solo el patron
+//   console.log(separar);
+//   juntar = separar.join(""); //junta el resto
+//   console.log(juntar); //muestra el texto sinel patron
+// };
+// eliminar("xyz1, xyz2, xyz3, xyz4 y xyz5", "xyz");
 
 // 9) Programa una función que obtenga un numero aleatorio entre 501 y 600.
+
+// function aleatorio(min, max) {
+//   min = Math.ceil(min);//devuelve el entero mayor o igual más próximo a un número dado.
+//   max = Math.floor(max);//Devuelve el máximo entero menor o igual a un número
+//   return Math.floor(Math.random() * (max - min) + min);
+// }
+
+// console.log(aleatorio(501,600));
+// console.log(aleatorio(501,600));
+
+// 10) Programa una función que reciba un número y evalúe si es capicúa o no (que se lee igual en un sentido que en otro), pe. miFuncion(2002) devolverá true.
+
+// function capicua(num){
+// num=num.toString();
+// console.log(num);
+// return num.split("").reverse().join("") ===num;
+// }
+
+// console.log(capicua(812));
+// console.log(capicua(8118));
+
+// 11) Programa una función que calcule el factorial de un número 
+// (El factorial de un entero positivo n, se define como el producto de todos los números enteros positivos desde 1 hasta n), pe. miFuncion(5) devolverá 120.
+
+// 12) Programa una función que determine si un número es primo (aquel que solo es divisible por sí mismo y 1) o no, pe. miFuncion(7) devolverá true.
+
+// const primo=(num)=>{
+// return num % num === 0 && num % 1 === 0 && num % 2 ==! 0
+// }
+// console.log(primo(7));
+// console.log(primo(8));
+// console.log(primo(11));
